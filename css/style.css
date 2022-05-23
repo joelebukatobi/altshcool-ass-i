@@ -406,6 +406,16 @@ hr {
   width: 47.5%;
 }
 
+.contact__login {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.contact__login a {
+  color: #6772e5;
+  font-weight: 700;
+}
+
 /* Footer */
 .footer {
   display: flex;
